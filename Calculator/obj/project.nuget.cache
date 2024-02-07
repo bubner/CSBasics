@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BO1C1PYSWEDCP7vE7IbDgGidguFkZW1gPNVk0Dvwyr47QUncJzou9TU2Oowk1PA1cNPSwl77PMGNZr2m7shD6w==",
+  "success": true,
+  "projectFilePath": "/home/lbubn/projects/CSBasics/Calculator/Calculator.csproj",
+  "expectedPackageFiles": [
+    "/home/lbubn/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

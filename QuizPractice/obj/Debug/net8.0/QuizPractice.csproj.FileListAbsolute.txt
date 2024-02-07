@@ -1,0 +1,14 @@
+/home/lbubn/projects/BasicTutorial/BasicTutorial/QuizPractice/bin/Debug/net8.0/QuizPractice
+/home/lbubn/projects/BasicTutorial/BasicTutorial/QuizPractice/bin/Debug/net8.0/QuizPractice.deps.json
+/home/lbubn/projects/BasicTutorial/BasicTutorial/QuizPractice/bin/Debug/net8.0/QuizPractice.runtimeconfig.json
+/home/lbubn/projects/BasicTutorial/BasicTutorial/QuizPractice/bin/Debug/net8.0/QuizPractice.dll
+/home/lbubn/projects/BasicTutorial/BasicTutorial/QuizPractice/bin/Debug/net8.0/QuizPractice.pdb
+/home/lbubn/projects/BasicTutorial/BasicTutorial/QuizPractice/obj/Debug/net8.0/QuizPractice.GeneratedMSBuildEditorConfig.editorconfig
+/home/lbubn/projects/BasicTutorial/BasicTutorial/QuizPractice/obj/Debug/net8.0/QuizPractice.AssemblyInfoInputs.cache
+/home/lbubn/projects/BasicTutorial/BasicTutorial/QuizPractice/obj/Debug/net8.0/QuizPractice.AssemblyInfo.cs
+/home/lbubn/projects/BasicTutorial/BasicTutorial/QuizPractice/obj/Debug/net8.0/QuizPractice.csproj.CoreCompileInputs.cache
+/home/lbubn/projects/BasicTutorial/BasicTutorial/QuizPractice/obj/Debug/net8.0/QuizPractice.dll
+/home/lbubn/projects/BasicTutorial/BasicTutorial/QuizPractice/obj/Debug/net8.0/refint/QuizPractice.dll
+/home/lbubn/projects/BasicTutorial/BasicTutorial/QuizPractice/obj/Debug/net8.0/QuizPractice.pdb
+/home/lbubn/projects/BasicTutorial/BasicTutorial/QuizPractice/obj/Debug/net8.0/QuizPractice.genruntimeconfig.cache
+/home/lbubn/projects/BasicTutorial/BasicTutorial/QuizPractice/obj/Debug/net8.0/ref/QuizPractice.dll
