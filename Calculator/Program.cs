@@ -68,7 +68,7 @@ class Program
     }
 
     /// <summary>
-    /// Convert a string array to a double array
+    /// Convert a string array to a double array.
     /// </summary>
     /// <param name="strings">an array of strings</param>
     /// <returns>an array of doubles</returns>
