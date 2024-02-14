@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizPractice", "QuizPractice\QuizPractice.csproj", "{35526188-6BDE-4002-96E2-74BA5F2FE5D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessingGame", "GuessingGame\GuessingGame.csproj", "{8FB53694-DA98-4CDA-99A3-94A68D77DEB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{35526188-6BDE-4002-96E2-74BA5F2FE5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35526188-6BDE-4002-96E2-74BA5F2FE5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35526188-6BDE-4002-96E2-74BA5F2FE5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB53694-DA98-4CDA-99A3-94A68D77DEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB53694-DA98-4CDA-99A3-94A68D77DEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB53694-DA98-4CDA-99A3-94A68D77DEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB53694-DA98-4CDA-99A3-94A68D77DEB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
